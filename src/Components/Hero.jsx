@@ -11,6 +11,7 @@ const Hero = () => {
           <p className='md:text-5xl sm:text-4xl text-xl md:py-3 pl-16'> Fast, Flexible Financing for <Typed
                 strings={['BTC','BNB','ETH']}
                      typeSpeed={120}
+                    //  test
                     backSpeed={130}
                     loop/>
                     
